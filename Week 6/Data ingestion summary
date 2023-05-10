@@ -1,3 +1,6 @@
 Output GZ file is 1.07 GB - Input CSV file is 2.87 GB
 Number of rows: 3000000
 Number of columns: 10
+
+CSV file downloaded from https://www.kaggle.com/datasets/pigment/big-sales-data?resource=download
+CSV and GZ files were not uploaded to repo due to large sizes
